@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\bin\Debug\net8.0\IPScan.exe
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\bin\Debug\net8.0\IPScan.deps.json
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\bin\Debug\net8.0\IPScan.runtimeconfig.json
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\bin\Debug\net8.0\IPScan.dll
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\bin\Debug\net8.0\IPScan.pdb
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\obj\Debug\net8.0\IPScan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\obj\Debug\net8.0\IPScan.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\obj\Debug\net8.0\IPScan.AssemblyInfo.cs
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\obj\Debug\net8.0\IPScan.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\obj\Debug\net8.0\IPScan.dll
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\obj\Debug\net8.0\refint\IPScan.dll
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\obj\Debug\net8.0\IPScan.pdb
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\obj\Debug\net8.0\IPScan.genruntimeconfig.cache
+C:\Users\EXCALIBUR\source\repos\IPScan\IPScan\obj\Debug\net8.0\ref\IPScan.dll
